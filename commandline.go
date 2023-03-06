@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/marketplace"
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/util"
+	"github.com/PK2-Stimpy/tochka/modules/marketplace"
+	"github.com/PK2-Stimpy/tochka/modules/util"
 )
 
 func manageRole(username, action, role string) {
